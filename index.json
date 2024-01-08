@@ -1,0 +1,60 @@
+{
+    "about" : [
+        {
+        "line1":"Hello my name is Jason September ,I am 25 years old. I like to be on the road and not at home ,I like going to new places and meeting new people. I also like discovering new restaurants and trying out their foods. I like to work out and keep myself fit whenever I am not too lazy. I love watching anime and I don't think that will stop anytime soon.",
+"line2": "I never knew much about computers on school ,only found my fascination for it late in my life but not too late to persue a career in the tech industry.I have done coding online through CodeSpace and that's where I started as an Aspiring Developer .I am stil very inexperienced when it comes to coding but more than willing to learn so that I can better myself ,my knowledge and my understanding of how code works."
+    }
+
+    ],
+    "reviews": [
+        {
+            "name": "Taryn-lee",
+            "surname": "Walbrugh",
+            "title": "Aspiring Developer",
+            "quotes": "Jason is very kind-hearted and compassionate,He enjoy what he does and that speaks wonders. He never backs down from hardships or struggles that's a quality that I admire. Jason takes pride in his work and it truly shows",
+            "profile": "https://i.postimg.cc/3whbRC94/IMG-20231102-120453.jpg"
+        },
+        {
+            "name": "Nathalie",
+            "surname": "Willemse",
+            "title": "Aspiring Developer",
+            "quotes": "Jason is a very soft-spoken individual and always helps where he can. He is very humble and always hope for the best. He is very knowledgeable and is quite generous with bestowing that with others.",
+            "profile": "https://i.postimg.cc/W11v3V3c/ksuh2rrg.png"
+        },
+        {
+            "name": "Matthew",
+            "surname": "Swain",
+            "title": "Aspiring Developer",
+            "quotes": "Jason September is an outstanding individual, whether it be his work or him as a person . Always pleasant to work with, always promotes positivity, great communicative skills and has unmatched enthusiasm and determination. He is the ideal work colleague but mainly the the best companion and friend.",
+            "profile": "https://i.postimg.cc/YqTHrNtH/IMG-20191224-165149-374.jpg"
+        },
+        {
+            "name": "Darren Viljoen",
+            "surname": "Willemse",
+            "title": "Jason September is a naturally skilled developer who has a bright future in this industry. His hard work and his willingness to assist others already makes him such a talented developer. Once you see his projects or designs, its only then that you realize what an incredibly high work ethic Jason has.",
+            "profile": "https://i.postimg.cc/cHFbdFJd/Screenshot-2023-11-03-145432.png"
+        },
+        {
+            "name": "Matthew Dean",
+            "surname": "Brown",
+            "title": "Lecturer",
+            "quotes": "Jason is very outstanding and creative individual,who struggles at first but always rises to the occation.He shows good promise in his work and work well with groups and always has a positive attitude.",
+            "profile": "https://i.postimg.cc/3NDWZHLj/Matthew.png"
+        }
+    ],
+   "Projects": [
+        {
+            "name": "Sneaker Shop"
+        },
+        {
+            "name": "Calculator"
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        },
+    ]
+
+}
