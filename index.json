@@ -35,7 +35,7 @@
      "description": "Started as a factory worker and worked myself up into our branch's colour lab and worked as a colour matcher for 2 years",
     },    
         
-    ]
+    ],
     "education": [
         {
             "id": 1,
@@ -80,7 +80,7 @@
             "id" : 7,
             "name" : "Physical Science"
         },
-    ]
+    ],
     "reviews": [
         {
             "name": "Taryn-lee",
