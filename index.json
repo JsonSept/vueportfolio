@@ -10,28 +10,28 @@
      "id": 1,
      "place": "Spar",
      "year": 2017,
-     "duration" : "6 months"
+     "duration" : "6 months",
      "description": "I worked as a packer in the fruit and veg isle.",
     },    
         {
      "id": 2,
      "place": "Helpende Hande",
      "year": 2017,
-     "duration" : "1 month"
+     "duration" : "1 month",
      "description": "Worked as a male nurse at an Old Age Home called helpende hande located in stikland.",
     },    
         {
      "id": 3,
      "place": "Meatrite",
      "year": 2018-2019,
-     "duration" : "13 months"
+     "duration" : "13 months",
      "description": "Worked as cashier and all arounder",
     },    
         {
      "id": 4,
      "place": "Flint Group",
      "year": 2020-2023,
-     "duration" : "2 years 10months"
+     "duration" : "2 years 10months",
      "description": "Started as a factory worker and worked myself up into our branch's colour lab and worked as a colour matcher for 2 years",
     },    
         
@@ -119,39 +119,39 @@
     ],
    "Projects": [
         {
-            "name": "Sneaker Shop"
-            "description" : "A sneaker shop website made with HTML and CSS"
-            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png"
-            "github link" : "https://github.com/JsonSept/week1.git"
+            "name": "Sneaker Shop",
+            "description" : "A sneaker shop website made with HTML and CSS",
+            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png",
+            "github link" : "https://github.com/JsonSept/week1.git",
             "Netlify" : "https://adorable-churros-ec7e34.netlify.app"
         },
         {
-            "name": "Calculator"
-             "description" : "Made with HTML, CSS and JavaScript"
-             "url" : "https://i.postimg.cc/RV2d0H1x/Screenshot-2023-11-01-115621.png"
-             "github link" : "https://github.com/JsonSept/Calculator.git"
+            "name": "Calculator",
+             "description" : "Made with HTML, CSS and JavaScript",
+             "url" : "https://i.postimg.cc/RV2d0H1x/Screenshot-2023-11-01-115621.png",
+             "github link" : "https://github.com/JsonSept/Calculator.git",
             "Netlify" : "https://melodic-tanuki-6eed1b.netlify.app"
             
         },
         {
-            "name": "Keyboard"
-             "description" : "Made with HTML, CSS and JavaScript"
-             "url" : "https://i.postimg.cc/HncWWRHm/Screenshot-2023-11-01-115543.png"
-             "github link" : "https://github.com/JsonSept/keyboard.git"
+            "name": "Keyboard",
+             "description" : "Made with HTML, CSS and JavaScript",
+             "url" : "https://i.postimg.cc/HncWWRHm/Screenshot-2023-11-01-115543.png",
+             "github link" : "https://github.com/JsonSept/keyboard.git",
             "Netlify" : "https://effervescent-manatee-8e6619.netlify.app"
         },
         {
-            "name": "Coffee Shop"
-             "description" : "Made HTML and CSS"
-             "url" : "https://i.postimg.cc/gcs3xBRW/Screenshot-2023-11-01-115720.png"
-             "github link" : "https://github.com/JsonSept/e-commerce-website.git"
+            "name": "Coffee Shop",
+             "description" : "Made HTML and CSS",
+             "url" : "https://i.postimg.cc/gcs3xBRW/Screenshot-2023-11-01-115720.png",
+             "github link" : "https://github.com/JsonSept/e-commerce-website.git",
             "Netlify" : "https://dynamic-liger-9dc540.netlify.app"
         },
        {
-            "name": "My Portfolio"
-             "description" : "Made HTML, CSS and JavaScript"
-             "url" : "https://i.postimg.cc/Y2YJBXyD/Screenshot-2023-11-03-213919.png"
-             "github link" : "https://github.com/JsonSept/my-Portfolio.git"
+            "name": "My Portfolio",
+             "description" : "Made HTML, CSS and JavaScript",
+             "url" : "https://i.postimg.cc/Y2YJBXyD/Screenshot-2023-11-03-213919.png",
+             "github link" : "https://github.com/JsonSept/my-Portfolio.git",
             "Netlify" : "https://hilarious-torrone-80eed2.netlify.app"
         }
     ]
