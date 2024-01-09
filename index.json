@@ -1,9 +1,8 @@
 {
     "about" : [
-        {
-        "line1":"Hello my name is Jason September ,I am 25 years old. I like to be on the road and not at home ,I like going to new places and meeting new people. I also like discovering new restaurants and trying out their foods. I like to work out and keep myself fit whenever I am not too lazy. I love watching anime and I don't think that will stop anytime soon.",
-"line2": "I never knew much about computers on school ,only found my fascination for it late in my life but not too late to persue a career in the tech industry.I have done coding online through CodeSpace and that's where I started as an Aspiring Developer .I am stil very inexperienced when it comes to coding but more than willing to learn so that I can better myself ,my knowledge and my understanding of how code works."
-    }
+        "Hello my name is Jason September ,I am 25 years old. I like to be on the road and not at home ,I like going to new places and meeting new people. I also like discovering new restaurants and trying out their foods. I like to work out and keep myself fit whenever I am not too lazy. I love watching anime and I don't think that will stop anytime soon.",
+        "I never knew much about computers on school ,only found my fascination for it late in my life but not too late to persue a career in the tech industry.I have done coding online through CodeSpace and that's where I started as an Aspiring Developer .I am stil very inexperienced when it comes to coding but more than willing to learn so that I can better myself ,my knowledge and my understanding of how code works."
+    
     ],
     "work experience": [
     {
@@ -20,21 +19,20 @@
      "duration" : "1 month",
      "description": "Worked as a male nurse at an Old Age Home called helpende hande located in stikland."
     },    
-        {
+    {
      "id": 3,
      "place": "Meatrite",
      "year": "2018-2019",
      "duration" : "13 months",
      "description": "Worked as cashier and all arounder"
     },    
-        {
+    {
      "id": 4,
      "place": "Flint Group",
      "year": "2020-2023",
      "duration" : "2 years 10months",
      "description": "Started as a factory worker and worked myself up into our branch's colour lab and worked as a colour matcher for 2 years"
-    }   
-        
+    }       
     ],
     "education": [
         {
