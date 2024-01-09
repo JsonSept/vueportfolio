@@ -51,7 +51,7 @@
             "Languages" : "Scratch,HTML,CSS,JavScript"
         }
     ],
-    "subjects"[
+    "subjects" : [
         {
             "id" : 1,
             "name" : "Afrikaans"
