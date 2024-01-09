@@ -121,37 +121,37 @@
             "name": "Sneaker Shop",
             "description" : "A sneaker shop website made with HTML and CSS",
             "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png",
-            "github link" : "https://github.com/JsonSept/week1.git",
-            "Netlify" : "https://adorable-churros-ec7e34.netlify.app"
+            "github" : "https://github.com/JsonSept/week1.git",
+            "netlify" : "https://adorable-churros-ec7e34.netlify.app"
         },
         {
             "name": "Calculator",
              "description" : "Made with HTML, CSS and JavaScript",
              "url" : "https://i.postimg.cc/RV2d0H1x/Screenshot-2023-11-01-115621.png",
-             "github link" : "https://github.com/JsonSept/Calculator.git",
-            "Netlify" : "https://melodic-tanuki-6eed1b.netlify.app"
+             "github" : "https://github.com/JsonSept/Calculator.git",
+            "netlify" : "https://melodic-tanuki-6eed1b.netlify.app"
             
         },
         {
             "name": "Keyboard",
              "description" : "Made with HTML, CSS and JavaScript",
              "url" : "https://i.postimg.cc/HncWWRHm/Screenshot-2023-11-01-115543.png",
-             "github link" : "https://github.com/JsonSept/keyboard.git",
-            "Netlify" : "https://effervescent-manatee-8e6619.netlify.app"
+             "github" : "https://github.com/JsonSept/keyboard.git",
+            "netlify" : "https://effervescent-manatee-8e6619.netlify.app"
         },
         {
             "name": "Coffee Shop",
              "description" : "Made HTML and CSS",
              "url" : "https://i.postimg.cc/gcs3xBRW/Screenshot-2023-11-01-115720.png",
-             "github link" : "https://github.com/JsonSept/e-commerce-website.git",
-            "Netlify" : "https://dynamic-liger-9dc540.netlify.app"
+             "github" : "https://github.com/JsonSept/e-commerce-website.git",
+            "netlify" : "https://dynamic-liger-9dc540.netlify.app"
         },
        {
             "name": "My Portfolio",
              "description" : "Made HTML, CSS and JavaScript",
              "url" : "https://i.postimg.cc/Y2YJBXyD/Screenshot-2023-11-03-213919.png",
-             "github link" : "https://github.com/JsonSept/my-Portfolio.git",
-            "Netlify" : "https://hilarious-torrone-80eed2.netlify.app"
+             "github" : "https://github.com/JsonSept/my-Portfolio.git",
+            "netlify" : "https://hilarious-torrone-80eed2.netlify.app"
         }
     ]
 
