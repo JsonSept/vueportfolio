@@ -102,9 +102,10 @@
             "profile": "https://i.postimg.cc/YqTHrNtH/IMG-20191224-165149-374.jpg"
         },
         {
-            "name": "Darren Viljoen",
-            "surname": "Willemse",
-            "title": "Jason September is a naturally skilled developer who has a bright future in this industry. His hard work and his willingness to assist others already makes him such a talented developer. Once you see his projects or designs, its only then that you realize what an incredibly high work ethic Jason has.",
+            "name": "Darren",
+            "surname": "Viljoen",
+            "title" : "Aspiring Developer"
+            "quotes": "Jason September is a naturally skilled developer who has a bright future in this industry. His hard work and his willingness to assist others already makes him such a talented developer. Once you see his projects or designs, its only then that you realize what an incredibly high work ethic Jason has.",
             "profile": "https://i.postimg.cc/cHFbdFJd/Screenshot-2023-11-03-145432.png"
         },
         {
