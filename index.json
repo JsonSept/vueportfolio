@@ -116,7 +116,7 @@
             "profile": "https://i.postimg.cc/3NDWZHLj/Matthew.png"
         }
     ],
-   "Projects": [
+   "projects": [
         {
             "name": "Sneaker Shop",
             "description" : "A sneaker shop website made with HTML and CSS",
