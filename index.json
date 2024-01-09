@@ -11,29 +11,29 @@
      "place": "Spar",
      "year": 2017,
      "duration" : "6 months",
-     "description": "I worked as a packer in the fruit and veg isle.",
+     "description": "I worked as a packer in the fruit and veg isle."
     },    
         {
      "id": 2,
      "place": "Helpende Hande",
      "year": 2017,
      "duration" : "1 month",
-     "description": "Worked as a male nurse at an Old Age Home called helpende hande located in stikland.",
+     "description": "Worked as a male nurse at an Old Age Home called helpende hande located in stikland."
     },    
         {
      "id": 3,
      "place": "Meatrite",
-     "year": 2018-2019,
+     "year": "2018-2019",
      "duration" : "13 months",
-     "description": "Worked as cashier and all arounder",
+     "description": "Worked as cashier and all arounder"
     },    
         {
      "id": 4,
      "place": "Flint Group",
-     "year": 2020-2023,
+     "year": "2020-2023",
      "duration" : "2 years 10months",
-     "description": "Started as a factory worker and worked myself up into our branch's colour lab and worked as a colour matcher for 2 years",
-    },    
+     "description": "Started as a factory worker and worked myself up into our branch's colour lab and worked as a colour matcher for 2 years"
+    }   
         
     ],
     "education": [
@@ -41,7 +41,7 @@
             "id": 1,
             "year": 2016,
             "description": "I Matriculated in 2016 at",
-            "place": "Forest height High School",
+            "place": "Forest height High School"
         },
         {
             "id" : 2,
@@ -79,7 +79,7 @@
         {
             "id" : 7,
             "name" : "Physical Science"
-        },
+        }
     ],
     "reviews": [
         {
