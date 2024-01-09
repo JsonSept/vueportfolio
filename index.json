@@ -4,8 +4,83 @@
         "line1":"Hello my name is Jason September ,I am 25 years old. I like to be on the road and not at home ,I like going to new places and meeting new people. I also like discovering new restaurants and trying out their foods. I like to work out and keep myself fit whenever I am not too lazy. I love watching anime and I don't think that will stop anytime soon.",
 "line2": "I never knew much about computers on school ,only found my fascination for it late in my life but not too late to persue a career in the tech industry.I have done coding online through CodeSpace and that's where I started as an Aspiring Developer .I am stil very inexperienced when it comes to coding but more than willing to learn so that I can better myself ,my knowledge and my understanding of how code works."
     }
-
     ],
+    "work experience": [
+    {
+     "id": 1,
+     "place": "Spar",
+     "year": 2017,
+     "duration" : "6 months"
+     "description": "I worked as a packer in the fruit and veg isle.",
+    },    
+        {
+     "id": 2,
+     "place": "Helpende Hande",
+     "year": 2017,
+     "duration" : "1 month"
+     "description": "Worked as a male nurse at an Old Age Home called helpende hande located in stikland.",
+    },    
+        {
+     "id": 3,
+     "place": "Meatrite",
+     "year": 2018-2019,
+     "duration" : "13 months"
+     "description": "Worked as cashier and all arounder",
+    },    
+        {
+     "id": 4,
+     "place": "Flint Group",
+     "year": 2020-2023,
+     "duration" : "2 years 10months"
+     "description": "Started as a factory worker and worked myself up into our branch's colour lab and worked as a colour matcher for 2 years",
+    },    
+        
+    ]
+    "education": [
+        {
+            "id": 1,
+            "year": 2016,
+            "description": "I Matriculated in 2016 at",
+            "place": "Forest height High School",
+        },
+        {
+            "id" : 2,
+            "year" : "2022",
+            "description" : "10 months of Online studying",
+            "place" : "CodeSpace",
+            "Languages" : "Scratch,HTML,CSS,JavScript"
+        }
+    ],
+    "subjects"[
+        {
+            "id" : 1,
+            "name" : "Afrikaans"
+        },
+        {
+            "id" : 2,
+            "name" : "English"
+        },
+        {
+            "id" : 3,
+            "name" : "Life Orientation"
+        },
+        {
+            "id" : 4,
+            "name" : "Biology"
+        },
+        {
+            "id" : 5,
+            "name" : "Geography"
+        },
+        {
+            "id" : 6,
+            "name" : "Maths Literacy"
+        },
+        {
+            "id" : 7,
+            "name" : "Physical Science"
+        },
+    ]
     "reviews": [
         {
             "name": "Taryn-lee",
@@ -45,16 +120,40 @@
    "Projects": [
         {
             "name": "Sneaker Shop"
+            "description" : "A sneaker shop website made with HTML and CSS"
+            "url" : "https://i.postimg.cc/Y2QGKLXs/Screenshot-2023-11-01-113304.png"
+            "github link" : "https://github.com/JsonSept/week1.git"
+            "Netlify" : "https://adorable-churros-ec7e34.netlify.app"
         },
         {
             "name": "Calculator"
+             "description" : "Made with HTML, CSS and JavaScript"
+             "url" : "https://i.postimg.cc/RV2d0H1x/Screenshot-2023-11-01-115621.png"
+             "github link" : "https://github.com/JsonSept/Calculator.git"
+            "Netlify" : "https://melodic-tanuki-6eed1b.netlify.app"
+            
         },
         {
-            "name": ""
+            "name": "Keyboard"
+             "description" : "Made with HTML, CSS and JavaScript"
+             "url" : "https://i.postimg.cc/HncWWRHm/Screenshot-2023-11-01-115543.png"
+             "github link" : "https://github.com/JsonSept/keyboard.git"
+            "Netlify" : "https://effervescent-manatee-8e6619.netlify.app"
         },
         {
-            "name": ""
+            "name": "Coffee Shop"
+             "description" : "Made HTML and CSS"
+             "url" : "https://i.postimg.cc/gcs3xBRW/Screenshot-2023-11-01-115720.png"
+             "github link" : "https://github.com/JsonSept/e-commerce-website.git"
+            "Netlify" : "https://dynamic-liger-9dc540.netlify.app"
         },
+       {
+            "name": "My Portfolio"
+             "description" : "Made HTML, CSS and JavaScript"
+             "url" : "https://i.postimg.cc/Y2YJBXyD/Screenshot-2023-11-03-213919.png"
+             "github link" : "https://github.com/JsonSept/my-Portfolio.git"
+            "Netlify" : "https://hilarious-torrone-80eed2.netlify.app"
+        }
     ]
 
 }
