@@ -1,14 +1,17 @@
 {
     "about" : [
+        
         "Hello my name is Jason September ,I am 25 years old.",
-        "I never knew much about computers on school ,only found my fascination for it late in my life but not too late to persue a career in the tech industry.I have done coding online through CodeSpace and that's where I started as an Aspiring Developer .I am stil very inexperienced when it comes to coding but more than willing to learn so that I can better myself ,my knowledge and my understanding of how code works."
+        "I have a very peaceful background ,with a loving family and supportive friends who are always my inspiration to always try to improve myself.I recently discovered that I have a love for coding and want to persue it even further and learn more about it in my journey."
     
     ],
     "hobbie" : [
-        "anime" : "I love watching anime and eating out in my free time as a way to help myself relax." ,
+        {
+        "anime" : "I love watching anime and eating out in my free time as a way to help myself relax.",
         "code" : "Despite being new aspiring developer I have discovered that I love coding and hope to further my knowledge on it.",
         "music" : "I love my music I started practicing playing guitar at home which also helps further my love for music as well as learning." 
-    ]
+        }
+    ],
     "workExperience": [
     {
      "id": 1,
