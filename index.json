@@ -162,10 +162,10 @@
             "netlify" : "https://dynamic-liger-9dc540.netlify.app"
         },
        {
-            "name": "My Store",
+            "name": "My Ecommerse Website",
              "description" : "Made HTML, CSS and JavaScript",
              "url" : "https://i.ibb.co/Y0VrQ5x/Screenshot-2024-01-11-144247.png",
-             "github" : "",
+             "github" : "https://github.com/JsonSept/newEcommerse.git",
             "netlify" : "https://sparkling-figolla-37748c.netlify.app"
         }
     ]
